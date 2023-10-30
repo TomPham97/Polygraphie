@@ -11,3 +11,4 @@
 /poly 2.APN
 /poly2.fgzip
 *.parquet
+schema/schema.pbtxt
