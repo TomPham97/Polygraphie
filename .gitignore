@@ -10,3 +10,4 @@
 /pipelines
 /poly 2.APN
 /poly2.fgzip
+*.parquet
